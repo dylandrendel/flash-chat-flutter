@@ -1,6 +1,3 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
-
 # Flash Chat ⚡️
 
 ## Our Goal
@@ -19,14 +16,12 @@ We’re going to build a modern messaging app where users can sign up and log in
 - How to incorporate Firebase into your Flutter projects.
 - How to use Firebase authentication to register and sign in users.
 - How to create beautiful animations using the Flutter Hero widget.
-- How to create custom aniamtions using Flutter's animation controller. 
+- How to create custom animations using Flutter's animation controller. 
 - Learn all about mixins and how they differ from superclasses.
 - Learn about Streams and how they work.
 - Learn to use ListViews to build scrolling views.
 - How to use Firebase Cloud Firestore to store and retrieve data on the fly.
 
+## How to use firebase
 
-
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+- For android, add google-services.json to android/app/ directory. Generate the json by creating a new project in firebase studio, and then follow the steps to create an android app. If you've already created the android app, find the google-services.json through the android app menu. 
